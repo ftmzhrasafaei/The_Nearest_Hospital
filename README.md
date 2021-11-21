@@ -15,11 +15,11 @@ The minimum distance of each node to the nearest hospital
 - number of nodes = 5
 - first, second, and third nodes are hospitals
 - adjacency matrix = [
-- 0 1 0 0 0
-- 1 0 1 0 0
-- 0 1 0 1 1
-- 0 0 1 0 1
-- 0 0 1 1 0
+ 0 1 0 0 0;
+ 1 0 1 0 0;
+ 0 1 0 1 1;
+ 0 0 1 0 1;
+ 0 0 1 1 0;
 ]
 
 Output= 10001
