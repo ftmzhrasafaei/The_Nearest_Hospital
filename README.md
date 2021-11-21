@@ -9,8 +9,7 @@ Using dijkstra algorithm, this program give the distance between the current nod
 ### output
 The minimum distance of each node to the nearest hospital
 
-## Example
-
+### Example
 "graph.txt"
 5 number of nodes = 5
 1 2 3 first, second, and third nodes are hospitals
