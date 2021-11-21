@@ -13,13 +13,13 @@ The minimum distance of each node to the nearest hospital
 
 "graph.txt"
 {
-5 
-1 2 3 
-0 1 0 0 0
-1 0 1 0 0
-0 1 0 1 1
-0 0 1 0 1
-0 0 1 1 0
+- 5 
+- 1 2 3 
+- 0 1 0 0 0
+- 1 0 1 0 0
+- 0 1 0 1 1
+- 0 0 1 0 1
+- 0 0 1 1 0
 }
 number of nodes = 5
 first, second, and third nodes are hospitals
