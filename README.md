@@ -10,7 +10,9 @@ Using dijkstra algorithm, this program give the distance between the current nod
 The minimum distance of each node to the nearest hospital
 
 ### Example
+
 "graph.txt"
+{
 5 number of nodes = 5
 1 2 3 first, second, and third nodes are hospitals
 adjacency matrix
@@ -19,6 +21,8 @@ adjacency matrix
 0 1 0 1 1
 0 0 1 0 1
 0 0 1 1 0
+}
+
 ----------------
 Output= 10001
 
