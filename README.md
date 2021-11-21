@@ -1,4 +1,4 @@
-# The_Nearest_Hospital
+# The Nearest Hospital
 Using dijkstra algorithm, this program give the distance between the current node and the available hospitals
 
 ### inputs
